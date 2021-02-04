@@ -1,2 +1,3 @@
-# landing_starter
-Landing pages starter, reusable structure for UI
+# Main Features
+- Build statics html files
+- Reusable view plugin
