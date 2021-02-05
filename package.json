@@ -1,0 +1,22 @@
+{
+  "name": "landing_starter",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "parcel src/views/pages/*.html",
+    "build": "parcel build src/views/pages/*.html --public-url ./"
+  },
+  "repository": {
+    "url": "git@github.com:nshermione/landing_starter.git"
+  },
+  "keywords": [],
+  "author": "Thinh Tran",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "posthtml-img-autosize": "^0.1.6",
+    "posthtml-modules": "^0.7.3",
+    "sass": "^1.32.6",
+    "typescript": "^4.1.3"
+  }
+}
